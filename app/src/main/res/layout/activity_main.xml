@@ -23,14 +23,6 @@
         tools:layout_editor_absoluteX="158dp"
         tools:layout_editor_absoluteY="375dp" />
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="evaluation1"
-        tools:layout_editor_absoluteX="168dp"
-        tools:layout_editor_absoluteY="423dp" />
-
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
@@ -38,13 +30,5 @@
         tools:layout_editor_absoluteX="137dp"
         tools:layout_editor_absoluteY="213dp"
         tools:srcCompat="@tools:sample/avatars" />
-
-    <Switch
-        android:id="@+id/switch1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Switch"
-        tools:layout_editor_absoluteX="166dp"
-        tools:layout_editor_absoluteY="443dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
